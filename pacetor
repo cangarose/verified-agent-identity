@@ -10,7 +10,7 @@ on:
       agent_description:
         description: 'pacetor'
         required: true
-        default: 'cangarose AI Agent'
+        default: 'pacetor AI Agent'
 
 jobs:
   verify:
